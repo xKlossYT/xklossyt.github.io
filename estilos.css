@@ -1,0 +1,177 @@
+body {
+    background: linear-gradient(to right, #3A3897, #A3A1FF);
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    font-size: 24px;
+    border-bottom: 4px solid #4e43a0;
+}
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px; /* Espacio entre elementos */
+}
+
+.header-img {
+    width: 80px; /* Ajusta el tamaño según necesites */
+    height: auto;
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+}
+
+.header-img:hover {
+    transform: scale(1.1);
+}
+
+h1 {
+    font-size: 28px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+nav {
+    background: #333;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+nav ul li {
+    position: relative;
+}
+
+nav ul li a {
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    display: block;
+    transition: background 0.3s;
+}
+
+nav ul li:hover {
+    background: #4e43a0;
+}
+
+/* Estilos para la lista desplegable */
+
+nav ul li ul.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #222;
+    width: 200px;
+    padding: 0;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+nav ul li:hover ul.dropdown {
+    display: block;
+}
+
+nav ul li ul.dropdown li {
+    width: 100%;
+}
+
+nav ul li ul.dropdown li a {
+    padding: 10px 15px;
+    color: white;
+    display: block;
+    transition: background 0.3s;
+}
+
+nav ul li ul.dropdown li a:hover {
+    background: #434343;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center; /* Centra el contenido de la tabla */
+}
+
+tr {
+    display: flex;
+    justify-content: center; /* Centra las imágenes horizontalmente */
+}
+
+td {
+    padding: 10px;
+}
+
+td img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+}
+
+td img:hover {
+    transform: scale(1.1);
+}
+/* Cambiar color de los enlaces */
+a {
+    color: #42b881; /* Verde elegante */
+    text-decoration: none; /* Quitar subrayado */
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Cambiar color cuando el usuario pasa el cursor */
+a:hover {
+    color: #2d8a67; /* Tonalidad más oscura */
+}
+
+/* Estilos específicos para los enlaces del menú */
+nav ul li a {
+    color: #ffffff; /* Blanco para mejor visibilidad */
+    padding: 15px 20px;
+    display: block;
+    transition: background 0.3s;
+}
+
+/* Cambiar color de fondo al pasar el cursor sobre el menú */
+nav ul li a:hover {
+    background: #42b881; /* Verde vibrante */
+    color: white;
+}
+
+/* Estilos para los enlaces dentro de la lista de proyectos */
+.proyectos-web li a {
+    color: #ffffff;
+    font-size: 18px;
+    display: block;
+    padding: 12px;
+    border-radius: 5px;
+    background: #4e43a0;
+    transition: transform 0.2s, background 0.3s;
+}
+
+/* Animación al pasar el cursor */
+.proyectos-web li a:hover {
+    transform: scale(1.05);
+    background: #4365a0;
+}
+ul {
+    list-style: none; /* Quita los puntos de la lista */
+    padding: 0;
+}
