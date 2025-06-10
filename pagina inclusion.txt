@@ -1,0 +1,41 @@
+<html>
+<head>
+<H1 ALIGN=CENTER>¿QUÉ ES LA INCLUSIÓN? </H1>
+<title> pagina inclusión </title>
+</head>
+<body BGCOLOR=7b4c8b Text=WHITE>
+<center>
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> La inclusión es un valor y un principio fundamental que busca garantizar que todas las personas, sin importar sus diferencias, tengan las mismas oportunidades para participar plenamente en la sociedad. Esto implica aceptar, respetar y valorar la diversidad en todos sus aspectos: físicos, culturales, sociales, económicos, religiosos, étnicos, de género o capacidades diferentes. </p></center>
+
+<hr>
+
+<img src="C:\Users\HANNIA\Downloads\inclusion.png" width="400" style="display: block; margin: auto;">
+
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> La inclusión no significa solo "permitir que alguien esté", sino asegurar que se sienta parte, que tenga voz, que sus necesidades sean tomadas en cuenta y que pueda desarrollarse en igualdad de condiciones. Una sociedad verdaderamente inclusiva es aquella que elimina las barreras —físicas, mentales o sociales— que impiden que algunas personas participen plenamente. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> Uno de los espacios donde la inclusión cobra gran importancia es en la educación. La educación inclusiva promueve que todos los estudiantes, incluyendo aquellos con alguna discapacidad o necesidad especial, compartan el mismo entorno escolar y aprendan juntos. Esto no solo enriquece la experiencia de todos, sino que fomenta valores como el respeto, la empatía y la tolerancia. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> También es importante hablar de inclusión laboral, que consiste en dar oportunidades reales de empleo a personas que tradicionalmente han sido marginadas o excluidas del mundo del trabajo. Esto no solo beneficia a quien accede al empleo, sino que también enriquece a las empresas al contar con equipos más diversos y humanos. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> En resumen, la inclusión nos invita a construir un mundo más justo, donde cada persona pueda vivir con dignidad, respeto y participación activa. Ser inclusivos es reconocer que todas las personas tienen el mismo valor, y que nuestras diferencias no deben ser motivo de exclusión, sino de enriquecimiento mutuo. </p></center>
+
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+}
+</style>
+
+<div class="container">
+<div><a href="file:///C:/Users/HANNIA/Downloads/valorescobaem.html" style="color:A6E1FA"> PÁGINA ANTERIOR </p></FONT></a></div>
+<div> <a href="file:///C:/Users/HANNIA/Downloads/equidad%20de%20genero.html" style="color:A6E1FA"> SIGUIENTE PÁGINA </p></FONT></a></div>
+</div>
+
+
+</ul>
+</body>
+</html>

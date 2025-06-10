@@ -1,0 +1,70 @@
+<html>
+<head>
+<H1 ALIGN=CENTER>¿QUÉ ES EL CUIDADO DE LA SALUD? </H1>
+<title> pagina cuidado e la salud </title>
+</head>
+<body BGCOLOR=4f8b4c Text=WHITE>
+<center>
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> El cuidado de la salud es el conjunto de acciones que realizamos para mantener nuestro cuerpo y mente en buen estado. No se trata solo de ir al médico cuando estamos enfermos, sino de adoptar hábitos diarios que nos ayuden a prevenir enfermedades, tener más energía, sentirnos bien emocionalmente y disfrutar de una buena calidad de vida. </p></center>
+ </p></center>
+
+<hr>
+
+<img src="C:\Users\HANNIA\Downloads\1436585.png" width="250" style="display: block; margin: auto;">
+
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> Cuidar la salud es responsabilidad de cada persona, pero también de la sociedad. Las escuelas, las familias, los gobiernos y los centros de salud juegan un papel importante para que todos podamos acceder a información, atención médica y condiciones adecuadas para mantenernos sanos. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> La salud no solo incluye el cuerpo físico, también abarca la salud mental y emocional. Estar bien significa sentirse tranquilo, manejar el estrés, tener buenas relaciones y pedir ayuda cuando algo nos afecta. Por eso, es importante prestar atención tanto a lo que comemos como a lo que sentimos. </p></center>
+
+<H2 style="FONT-SIZE:20px" >Aquí te dejo algunos consejos que puedes seguir para cuidar tu salud: </H2>
+
+<ul>
+<LH> ALIMENTACIÓN BALANCEADA </LH>
+<LI> Come fruta, verduras, cereales integrales y proteinas saludables. </li>
+<li> Evita el exceso de azúcares, grasas saturadas y comida chatarra. </li>
+<li> Bebe suficiente agua todos los dias. </li> <br> 
+
+<LH> ACTIVIDAD FÍSICA REGULAR </LH>
+<LI> Realiza ejercicio al menos 30 minutos al día. </li>
+<li> Puede ser caminar, correr, bailar o practicar algún deporte. </li>
+<li> El ejercicio mejora el corazón, los músculos y también el estado de ánimo. </li><br>
+
+<LH> HIGIENE PERSONAL </LH>
+<LI> Lávate las manos frecuentemente, sobre todo antes de comer y después de ir al baño. </li>
+<li> Cepíllate los dientes después de cada comida. </li>
+<li> Báñate a diario y cuida la limpieza de tu ropa. </li><br>
+
+<LH> DESCANSO ADECUADO </LH>
+<LI> Dormir entre 7 y 9 horas diarias permite que el cuerpo y la mente se recuperen. </li>
+<li> Evita el uso excesivo de pantallas antes de dormir. </li>
+<li> Mantén horarios regulares de sueño. </li><br>
+
+<LH> SALUD MENTAL </LH>
+<LI> Habla con alguien de confianza si te sientes triste, ansioso o preocupado. </li>
+<li> Aprende a manejar el estrés con actividades que te relajen. </li>
+<li> Rodéate de personas que te apoyen y te respeten. </li><br>
+
+<LH> CHEQUEOS MÉDICOS </LH>
+<LI> Visita al médico para revisiones generales, incluso si te sientes bien. </li>
+<li> Vacúnate según el calendario recomendado. </li>
+<li> Hazte análisis de rutina para prevenir enfermedades. </li><br>
+
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+}
+</style>
+
+<div class="container">
+<div><a href="file:///C:/Users/HANNIA/Downloads/equidad%20de%20genero.html" style="color:A6E1FA"> PÁGINA ANTERIOR </p></FONT></a></div>
+<div> <a href="file:///C:/Users/HANNIA/Downloads/jovenes%20por%20la%20paz.html" style="color:A6E1FA"> SIGUIENTE PÁGINA </p></FONT></a></div>
+</div>
+
+</ul>
+</body>
+</html>

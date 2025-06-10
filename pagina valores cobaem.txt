@@ -1,0 +1,46 @@
+<html>
+<head>
+<H1 ALIGN=CENTER>¿QUÉ SON LOS VALORES? </H1>
+<title> pagina valores </title>
+</head>
+<body BGCOLOR=4c658b Text=WHITE>
+<center>
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> Los valores son principios, cualidades o normas que guían el comportamiento y la toma de decisiones de las personas dentro de una sociedad. Funcionan como una especie de brújula moral que orienta nuestras acciones y nos ayuda a diferenciar entre lo que se considera correcto o incorrecto. Los valores pueden ser inculcados desde la familia, la educación y la cultura, y pueden variar según la sociedad, la época y las experiencias individuales. </p></center>
+
+<hr>
+
+<img src="C:\Users\HANNIA\Downloads\560.png" width="400" style="display: block; margin: auto;">
+
+<hr>
+
+<H2 style="FONT-SIZE:20px" >Se dividen en diferentes tipos según su naturaleza y función. Algunos de los más importantes son: </H2>
+
+<ul style="FONT-SIZE:19px" type=star >
+
+<li> VALORES ÉTICOS Y MORALES: Son aquellos que regulan el comportamiento humano en términos de lo que es justo, honesto y respetuoso. Ejemplos incluyen la honestidad, la responsabilidad y la justicia. </p></FONT></a>
+
+<li> VALORES PERSONALES: Son aquellos que cada individuo adopta como fundamentales en su vida. Pueden incluir la autodisciplina, la perseverancia y la superación personal. </p></FONT>
+
+<li> VALORES FAMILIARES: Son los que se transmiten dentro del núcleo familiar y fortalecen los lazos entre sus miembros, como el respeto, el amor y la lealtad. </p></FONT>
+
+<li> VALORES SOCIALES: Son aquellos que favorecen la convivencia armoniosa dentro de una comunidad, como la solidaridad, la empatía y la cooperación. </p></FONT>
+
+<li> VALORES CÍVICOS: Son los que promueven el bienestar y la organización de la sociedad, como el respeto a las leyes, la participación ciudadana y la equidad. </p></FONT>
+
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+}
+</style>
+
+<div class="container">
+<div><a href="file:///C:/Users/HANNIA/Downloads/pagina%20principal.html" style="color:A6E1FA"> PÁGINA ANTERIOR </p></FONT></a></div>
+<div> <a href="file:///C:/Users/HANNIA/Downloads/pagina%20inclusion.html" style="color:A6E1FA"> SIGUIENTE PÁGINA </p></FONT></a></div>
+</div>
+
+</ul>
+</body>
+</html>

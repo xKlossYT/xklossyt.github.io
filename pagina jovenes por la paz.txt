@@ -1,0 +1,62 @@
+<html>
+<head>
+<H1 ALIGN=CENTER>JOVENES POR LA PAZ </H1>
+<title> pagina Jovenes por la paz </title>
+</head>
+<body BGCOLOR=4c898b Text=WHITE>
+<center>
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> La paz no es solo la ausencia de guerras o conflictos, también es la presencia de respeto, justicia, diálogo y bienestar para todos. En este sentido, los jóvenes juegan un papel fundamental como agentes de cambio en la construcción de un mundo más pacífico. "Jóvenes por la paz" no es solo una frase bonita: es un llamado a la acción para que las nuevas generaciones promuevan el respeto, la tolerancia y la solución pacífica de los problemas. </p></center>
+ </p></center>
+
+<hr>
+
+<img src="C:\Users\HANNIA\Downloads\pngtree-world-peace-people-of-all-countries-release-doves-of-peace-png-image_8635231.png" width="250" style="display: block; margin: auto;">
+
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> En las escuelas, en las comunidades y en las redes sociales, los jóvenes tienen muchas oportunidades para sembrar la paz. Cada vez que eligen resolver un conflicto con diálogo en lugar de violencia, cada vez que defienden a alguien que está siendo maltratado o que promueven la igualdad, están siendo constructores de paz. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> La paz también comienza en el interior de cada persona. Un joven que se conoce, se valora y maneja sus emociones de manera positiva, está más preparado para vivir en armonía con los demás. La educación emocional, la empatía y el respeto por las diferencias son claves para que los jóvenes se conviertan en líderes pacíficos. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> Además, muchos jóvenes en todo el mundo participan en campañas, proyectos y movimientos sociales que promueven la paz, la justicia y los derechos humanos. Demuestran que con organización, solidaridad y compromiso, es posible transformar la realidad y hacer frente a la violencia, la discriminación y la injusticia. </p></center>
+
+<H2 style="FONT-SIZE:20px" > ¿Qué pueden hacer los jóvenes por la paz? </H2>
+
+<ul>
+<LH> FOMENTAR EL RESPETO Y TOLERANCIA </LH>
+<LI> Escuchar y aceptar opiniones diferentes. </li>
+<li> No discriminar por raza, género, religión o forma de pensar. </li> <br>
+
+<LH> RESOLVER CONFLICTOS CON DIÁLOGO </LH>
+<LI> Hablar en lugar de pelear. </li>
+<li> Buscar acuerdos justos y evitar la violencia verbal o física. </li><br>
+
+<LH> PROMOVER AMBIENTES SEGUROS Y POSITIVOS </LH>
+<LI> Crear espacios donde todos se sientan incluidos. </li>
+<li> Evitar el bullying y apoyar a quien lo necesite. </li><br>
+
+<LH> PARTICIPAR EN ACTIVIDADES COMUNITARIAS </LH>
+<LI> Unirse a grupos escolares o vecinales que promuevan valores.</li>
+<li> Realizar campañas por la paz, la no violencia y el respeto. </li><br>
+
+<LH> SER EJEMPLO CON SUS ACCIONES </LH>
+<LI> Tratar a los demás como les gustaría ser tratados. </li>
+<li> Cuidar sus palabras en persona y en redes sociales. </li><br>
+
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+}
+</style>
+
+<div class="container">
+<div><a href="file:///C:/Users/HANNIA/Downloads/cuidado%20de%20la%20salud.html" style="color:A6E1FA"> PÁGINA ANTERIOR </p></FONT></a></div>
+<div> <a href="file:///C:/Users/HANNIA/Downloads/pagina%20principal.html" style="color:A6E1FA"> VOLVER AL INICIO </p></FONT></a></div>
+</div>
+
+</ul>
+</body>
+</html>

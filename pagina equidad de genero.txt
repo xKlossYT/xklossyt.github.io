@@ -1,0 +1,41 @@
+<html>
+<head>
+<H1 ALIGN=CENTER>¿QUÉ ES LA EQUIDAD DE GÉNERO? </H1>
+<title> pagina equidad de género </title>
+</head>
+<body BGCOLOR=8b4c4c Text=WHITE>
+<center>
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> La equidad de género es el principio que busca garantizar que hombres y mujeres tengan las mismas oportunidades, derechos y condiciones para desarrollarse plenamente en todos los aspectos de la vida: en el hogar, en la escuela, en el trabajo y en la sociedad en general. A diferencia de la igualdad que trata de dar lo mismo a todos, la equidad reconoce que hay diferencias y desigualdades históricas que deben corregirse con acciones justas y específicas. </p></center>
+
+<hr>
+
+<img src="C:\Users\HANNIA\Downloads\EQUIDAD IGUALDAD.png" width="400" style="display: block; margin: auto;">
+
+<hr>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> Durante muchos años, las mujeres han sido excluidas o limitadas en ciertos espacios simplemente por su género. Han tenido menos acceso a la educación, a cargos importantes, a salarios justos o incluso a decisiones dentro de su propia familia. La equidad de género busca cambiar esto, asegurando que todas las personas, sin importar si son hombres, mujeres o de otra identidad de género, puedan ejercer sus derechos y alcanzar sus metas sin discriminación. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> Un ejemplo de equidad de género es promover leyes que protejan a las mujeres contra la violencia, impulsar la participación femenina en la política, o crear campañas para que los hombres también participen en el cuidado del hogar y los hijos. No se trata de favorecer a un género sobre otro, sino de construir una sociedad más justa y balanceada para todos. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> En la escuela, practicar la equidad de género significa evitar actitudes sexistas, dar las mismas oportunidades de participación a niñas y niños, y fomentar el respeto por la identidad de cada quien. También es importante cuestionar los estereotipos que dicen que “los hombres no lloran” o que “las mujeres no pueden liderar”, porque limitan el crecimiento de las personas. </p></center>
+
+<p style="FONT-SIZE:23px" ALIGN=justify> En conclusión, la equidad de género es un paso fundamental hacia una sociedad más libre, respetuosa e inclusiva. Promoverla es tarea de todos, ya que nos ayuda a convivir en armonía, a respetar las diferencias y a garantizar un futuro con más justicia para las próximas generaciones. </p></center>
+
+<style>
+.container {
+display: flex;
+justify-content: space-between;
+}
+</style>
+
+<div class="container">
+<div><a href="file:///C:/Users/HANNIA/Downloads/pagina%20inclusion.html" style="color:A6E1FA"> PÁGINA ANTERIOR </p></FONT></a></div>
+<div> <a href="file:///C:/Users/HANNIA/Downloads/cuidado%20de%20la%20salud.html" style="color:A6E1FA"> SIGUIENTE PÁGINA </p></FONT></a></div>
+</div>
+
+
+</ul>
+</body>
+</html>
